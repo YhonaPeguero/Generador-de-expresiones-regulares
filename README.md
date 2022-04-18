@@ -15,4 +15,4 @@ Generar expresiones regulares.
 # Conceptos aprendidos 🛠️
 ***
 
-Regex, o expresiones regulares en distintos lenguajes para encontrar patrones de texto.
+Regex, o expresiones regulares en distintos lenguajes para encontrar patrones.
